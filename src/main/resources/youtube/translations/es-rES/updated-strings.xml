@@ -9,3 +9,8 @@
 
 <string name="revanced_append_time_stamp_information_type_summary_off">Añadir velocidad de reproducción. Mantén pulsada la marca de tiempo para cambiar el tipo mientras se reproduce el vídeo.</string>
 <string name="revanced_append_time_stamp_information_type_summary_on">Añadir calidad de vídeo. Mantén pulsada la marca de tiempo para cambiar el tipo mientras se reproduce el vídeo.</string>
+
+<string name="revanced_hide_keyword_content_feed_summary_off">El filtro de palabras clave para el feed y la búsqueda está desactivado.</string>
+<string name="revanced_hide_keyword_content_feed_summary_on">El filtro de palabras clave para el feed y la búsqueda está activado.</string>
+
+<string name="revanced_keyword_filter_summary">Oculta vídeos mediante un filtro de palabras clave.</string>
